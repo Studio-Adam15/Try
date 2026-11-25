@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://istatiehdecor.com/sitemap.xml
