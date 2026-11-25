@@ -1,0 +1,8 @@
+{
+  "name": "Istatieh Decor — Luxury Wallpaper & Curtains",
+  "description": "استيتيه للديكور والستائر — Luxury interior decoration showroom in Amman, Jordan specializing in premium wallpaper, bespoke curtains, and architectural finishing details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
